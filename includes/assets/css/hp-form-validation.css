@@ -1,0 +1,8 @@
+#commentform #commentsection, #commentform #authorsection, #commentform #emailsection
+{
+	font-size: 17px;
+    font-weight: bold;
+    color: red;
+    position: absolute;
+    margin-top: -10px;
+}
